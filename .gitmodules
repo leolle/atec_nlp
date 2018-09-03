@@ -1,0 +1,3 @@
+[submodule "margin-softmax"]
+	path = margin-softmax
+	url = https://github.com/bojone/margin-softmax.git
